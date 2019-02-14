@@ -1,9 +1,9 @@
 
 {
-      "Name":"wangxin201000_UserRepo1",
+      "Name":"UserAccountName_UserRepo1",
       "Tags":["weather1","travel1"],
       "Algorithms":["search1","sort1"],
       "DataSets":["dsds1","dsds2"],
       "Type":"GitRepo",
-      "Url":"https://github.com/wangxin201000/UserRepo1.git"
+      "Url":"https://github.com/UserAccountName/UserRepo1.git"
 }
