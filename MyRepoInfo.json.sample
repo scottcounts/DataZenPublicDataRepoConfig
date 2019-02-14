@@ -5,7 +5,7 @@
       "Algorithms":["search1","sort1"],
       "DataSets":["dsds1","dsds2"],
       "Type":"GitRepo",
-      "Url":"https://github.com/UserAccountName/UserRepo1.git"
-      "IconUrl":"http://www.google.com/icon.png"
+      "Url":"https://github.com/UserAccountName/UserRepo1.git",
+      "IconUrl":"http://www.google.com/icon.png",
       "Description":"This repo is for weather related stuff."
 }
