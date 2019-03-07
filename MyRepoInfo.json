@@ -5,5 +5,6 @@
       "DataSets":["isd"],
       "Type":"GitRepo",
       "Url":"https://github.com/scottcounts/UrbanHeatIslands_DataProcessing.git",
-      "Description":"Data processing notebook for urban heat islands analysis with NOAA data via Azure IoT"
+      "Description":"Data processing notebook for urban heat islands analysis with NOAA data via Azure IoT",
+      "IconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 }
