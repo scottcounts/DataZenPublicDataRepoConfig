@@ -1,0 +1,8 @@
+{
+      "Name":"scottcounts_CitySafety",
+      "Tags":["cities","urban","safety","311","911"],
+      "DataSets":["isd"],
+      "Type":"GitRepo",
+      "Url":"https://github.com/scottcounts/CitySafety",
+      "Description":"Databricks notebook for analytics with safety data (311 and 911 call data) from major U.S. cities."
+}
