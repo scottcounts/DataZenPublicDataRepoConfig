@@ -1,6 +1,6 @@
 
 {
-      "Name":"scottcounts_UrbanHeatIslands",
+      "Name":"Urban Heat Islands",
       "Tags":["weather","urban","global_warming","urban_heat_islands"],
       "DataSets":["isd"],
       "Type":"GitRepo",
