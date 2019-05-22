@@ -5,7 +5,6 @@
       "DataSets":["isd"],
       "Type":"GitRepo",
       "Url":"https://github.com/scottcounts/UrbanHeatIslands.git",
-      "IconUrl":"https://raw.githubusercontent.com/scottcounts/UrbanHeatIslands/master/UII_Logo_Medium.png",
       "Description":"Takes hourly NOAA weather station data, produces daily per-city urban heat island indices (January 1, 2008 - present), then produces analytics to compare cities over time and to one another.",
       "Triaged": true
 }
