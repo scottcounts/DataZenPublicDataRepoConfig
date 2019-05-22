@@ -4,6 +4,7 @@
       "DataSets":["city_safety_boston","city_safety_chicago","city_safety_newyork","city_safety_sanfrancisco","city_safety_seattle"],
       "Type":"GitRepo",
       "Url":"https://github.com/scottcounts/CitySafety.git",
+      "IconUrl":"https://scottcounts.github.io/urban-innovation.png",
       "Description":"Databricks notebook for analytics with safety data (311 and 911 call data) from major U.S. cities.",
       "Triaged": true
 }
