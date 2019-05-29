@@ -1,9 +1,0 @@
-{
-      "Name":"scottcounts_CitySafety",
-      "Tags":["cities","urban","safety","311","911"],
-      "DataSets":["isd"],
-      "Type":"GitRepo",
-      "Url":"https://github.com/scottcounts/CitySafety.git",
-      "IconUrl":"https://scottcounts.github.io/urban-innovation.png",
-      "Description":"From the Urban Innovation Initiative at Microsoft Research, databricks notebook for analytics with safety data (311 and 911 call data) from major U.S. cities. Analyses show frequency distributions and geographic clustering of safety issues within cities."
-}
